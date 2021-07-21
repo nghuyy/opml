@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+    <head>
+        <title>International</title>
+    </head>
+    <body>
+        <outline text="VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/tin-moi-nhat.rss"/>
+        <outline text="Thế giới VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/the-gioi.rss"/>
+        <outline text="Thời sự VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/thoi-su.rss"/>
+
+        <outline text="Kinh doanh VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/kinh-doanh.rss"/>
+        <outline text="Startup VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/startup.rss"/>
+        <outline text="Giải trí VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/giai-tri.rss"/>
+
+        <outline text="Thể thao VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/the-thao.rss"/>
+
+        <outline text="Pháp luật VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/phap-luat.rss"/>
+
+        <outline text="Giáo dục VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/giao-duc.rss"/>
+
+        <outline text="Sức khỏe VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/suc-khoe.rss"/>
+
+        <outline text="Gia Đình VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/gia-dinh.rss"/>
+
+        <outline text="Du Lịch VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/du-lich.rss"/>
+
+        <outline text="Khoa học VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/khoa-hoc.rss"/>
+
+        <outline text="Số hóa VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/so-hoa.rss"/>
+
+        <outline text="Xe VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/oto-xe-may.rss"/>
+
+        <outline text="Cười VnExpress" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://vnexpress.net/rss/cuoi.rss"/>
+
+        <outline text="Bóng đá 24h" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://cdn.24h.com.vn/upload/rss/bongda.rss"/>
+
+        <outline text="An ninh 24h" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://cdn.24h.com.vn/upload/rss/anninhhinhsu.rss"/>
+
+        <outline text="Thời trang 24h" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://cdn.24h.com.vn/upload/rss/thoitrang.rss"/>
+
+        <outline text="Tech 24h" htmlUrl="https://vnexpress.net/" type="rss"
+                 xmlUrl="https://cdn.24h.com.vn/upload/rss/thoitranghitech.rss"/>
+
+
+    </body>
+</opml>

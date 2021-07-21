@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+    <head>
+        <title>International</title>
+    </head>
+    <body>
+        <outline text="XDA" htmlUrl="https://www.xda-developers.com/" type="rss"
+                 xmlUrl="https://www.xda-developers.com/feed/"/>
+
+    </body>
+</opml>
