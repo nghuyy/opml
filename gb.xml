@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<opml version="1.0">
-    <head>
-        <title>International</title>
-    </head>
-    <body>
-        <outline text="XDA" htmlUrl="https://www.xda-developers.com/" type="rss"
-                 xmlUrl="https://www.xda-developers.com/feed/"/>
-    </body>
+<opml version="1.1">
+  <head>
+    <title>FeedDemon Subscriptions</title>
+    <dateModified>Sun, 25 Jul 2021 10:27:13 GMT</dateModified>
+  </head>
+  <body>
+    <outline text="Tech">
+      <outline text="TechRepublic" title="TechRepublic" type="rss" xmlUrl="https://www.techrepublic.com/rssfeeds/articles/" htmlUrl="https://www.techrepublic.com/" category="Technology"/>
+      <outline text="ZDNET News" title="ZDNET News" type="rss" xmlUrl="https://www.zdnet.com/news/rss.xml" htmlUrl="https://www.zdnet.com/" category="Technology"/>
+      <outline text="Android Central" title="Android Central" type="rss" xmlUrl="http://feeds2.feedburner.com/androidcentral" htmlUrl="https://www.androidcentral.com/"/>
+      <outline text="XDA" title="XDA" type="rss" xmlUrl="https://www.xda-developers.com/feed/" htmlUrl="https://www.xda-developers.com/"/>
+      <outline text="ZDNet Blog" title="ZDNet Blog" type="rss" xmlUrl="https://www.zdnet.com/blog/rss.xml" htmlUrl="https://www.zdnet.com/" category="Technology"/>
+      <outline text="The Verge" title="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/"/>
+      <outline text="SlashGear" title="SlashGear" type="rss" xmlUrl="https://www.slashgear.com/feed/" htmlUrl="https://www.slashgear.com"/>
+    </outline>
+  </body>
 </opml>
